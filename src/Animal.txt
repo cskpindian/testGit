@@ -1,0 +1,7 @@
+This file is for all the animals.
+
+Cat
+
+Dog
+
+Lion
